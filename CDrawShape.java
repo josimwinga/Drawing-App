@@ -1,4 +1,4 @@
-package Sketchy;
+
 /**
  * This is the shape drawn command.
  * Every time the a new shape is drawn
