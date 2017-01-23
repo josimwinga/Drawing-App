@@ -1,7 +1,7 @@
-package Sketchy;
+
 /**
  * This is the Constants class
- * @author <jsimwing>
+ * @author <josimwing>
  **/
 import java.awt.Dimension;
 public class Constants {
