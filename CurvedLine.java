@@ -1,4 +1,4 @@
-package Sketchy;
+
 /**This is the Curved Line Class.
  * It takes in points and then uses
  * those point to draw lines which are 
@@ -15,7 +15,7 @@ package Sketchy;
  * Two methods are used for reading a line:
  * Open color and Open . They are separate
  * in order to keep the code more organized
- * @author <jsimwing>
+ * @author <josimwing>
  */
 import java.awt.Color;
 import java.awt.Graphics;
