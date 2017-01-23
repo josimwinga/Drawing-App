@@ -1,9 +1,9 @@
-package Sketchy;
+
 /**
  * This is the fancy line class.
  * It takes in points to create lines
  * which are stored in an arrayList
- * @author <jsimwing>
+ * @author <josimwing>
  **/
 import java.awt.Color;
 import java.awt.Graphics;
