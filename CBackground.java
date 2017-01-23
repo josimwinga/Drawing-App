@@ -1,11 +1,10 @@
-package Sketchy;
 /**
  * This is the Background change command.
  * Every time the background color of the
  * canvas is changed, this command is
  * instantiated to save the previous 
  * and current state of the background.
- * @author <jsimwing>
+ * @author <josimwing>
  **/
 import java.awt.Color;
 
