@@ -1,4 +1,4 @@
-package Sketchy;
+
 /**
  * This is the Canvas where all of the graphics will appear
  * and where files are saved, commands are made, and 
@@ -6,7 +6,7 @@ package Sketchy;
  * There are 3 arrayLists of graphic elements,
  * a mouseListener/MouseMotionListener inner class,
  * and 2 stacks for the undo and redo methods. 
- * @author <jsimwing>
+ * @author <josimwing>
  **/
 import java.awt.Color;
 import javax.swing.JFrame;
