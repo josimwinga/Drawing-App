@@ -1,11 +1,11 @@
-package Sketchy;
+
 /**
  * This is the rotate change command.
  * Every time a shape is rotated on
  * canvas, this command is
  * instantiated to save the previous 
  * and current state of the shape.
- * @author <jsimwing>
+ * @author <josimwing>
  **/
 import java.util.ArrayList;
 
