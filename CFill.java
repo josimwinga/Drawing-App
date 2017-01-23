@@ -1,11 +1,11 @@
-package Sketchy;
+
 /**
  * This is the fill change command.
  * Every time a shape's is
  * changed, this command is
  * instantiated to save the previous 
  * and current state of the shape.
- * @author <jsimwing>
+ * @author <josimwing>
  **/
 import java.awt.Color;
 import java.util.ArrayList;
