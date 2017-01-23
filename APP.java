@@ -1,14 +1,7 @@
-package Sketchy;
-
 import javax.swing.JFrame;
 
 /**
- * This is the main class, where your program will start.
- * Note that this is an application, where the main method calls 
- * the App constructor.
- *
- * Class comments here...
- * Program controls:
+ * 
  * Shape functionality:
  * To draw a shape, toggle its corresponding button, click on the canvas
  * and then drag the mouse to create and size the shape.
@@ -41,16 +34,13 @@ import javax.swing.JFrame;
  * For more program controls press "help"
  * 
  *
- * @author <jsimwing>
- * Did you discuss your design with another student?
- * If so, list their login here:
+ * @author <josimwinga>
  *
  */
 
 public class APP {
 
 	public APP() {
-		// Constructor code goes here.
 		JFrame frame = new JFrame();
 		MainPanel panel = new MainPanel();
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -59,7 +49,6 @@ public class APP {
 		frame.setVisible(true);
 	}
 
-	/* You don't need to touch this part. */
 	public static void main(String[] argv) {
 		new APP();
 	}
