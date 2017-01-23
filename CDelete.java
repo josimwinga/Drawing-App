@@ -1,4 +1,4 @@
-package Sketchy;
+
 /**
  * This is the deletion change command.
  * Every time a shape is deleted from the
