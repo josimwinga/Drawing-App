@@ -1,11 +1,11 @@
-package Sketchy;
+
 /**
  * This is the line change command.
  * Every time a line is drawn on
  * canvas, this command is
  * instantiated to save the previous 
  * and current state of the line.
- * @author <jsimwing>
+ * @author <josimwing>
  **/
 import java.util.ArrayList;
 
