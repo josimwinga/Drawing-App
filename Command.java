@@ -1,4 +1,4 @@
-package Sketchy;
+
 /**
  * This is the abstract class Command.
  * It has two methods undo and redo.
